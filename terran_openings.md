@@ -11,9 +11,11 @@
 		3:45 Minutes: 2nd CC
 
 ##################################################################
-###	Gasless Xpand: Most effective against Zerg but can be 
-		dangerous otherwise.
+###	Gasless Xpand: 
 ##################################################################
+		Most effective against Zerg but can be 
+		dangerous otherwise.
+
 		1st Supply Depot
 		1st Rax
 			[Optional scout at 14 supply]
@@ -59,7 +61,7 @@
 
 ##################################################################
 ###	15 Gas -> Reactor: Versus Protoss
-################################################################## 
+
 		Grab gas @ 15 Supply
 		Orbital at 17
 		2nd CC at 17
