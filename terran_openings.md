@@ -3,15 +3,15 @@
 ##"SCVs and Supply Depots all the time"
 
 
-##################################################################
-	General Benchmarks:
+
+###	General Benchmarks:
 ##################################################################
 		10 Minutes: 50 SCVS
 		7 Minutes: 2 Rax, 1 Rax in prod. 1 Factory, 1 Starport
 		3:45 Minutes: 2nd CC
 
 ##################################################################
-	Gasless Xpand: Most effective against Zerg but can be 
+###	Gasless Xpand: Most effective against Zerg but can be 
 		dangerous otherwise.
 ##################################################################
 		1st Supply Depot
@@ -31,7 +31,7 @@
 
 
 ##################################################################
-	13 Gas -> Reaper: Versus Terran
+###	13 Gas -> Reaper: Versus Terran
 ##################################################################
 		Grab gas at 13 supply and 75 minerals
 		Orbital at 16 supply
@@ -58,7 +58,7 @@
 			1 Starport
 
 ##################################################################
-	15 Gas -> Reactor: Versus Protoss
+###	15 Gas -> Reactor: Versus Protoss
 ################################################################## 
 		Grab gas @ 15 Supply
 		Orbital at 17
@@ -81,7 +81,7 @@
 		1 Starport
 
 ##################################################################
-	15 Gas Reactor w/ Xra Depot
+###	15 Gas Reactor w/ Xra Depot
 ##################################################################
 		Grab Gas @ 15 Supply
 		Add 2nd Depot at Rax Wall
